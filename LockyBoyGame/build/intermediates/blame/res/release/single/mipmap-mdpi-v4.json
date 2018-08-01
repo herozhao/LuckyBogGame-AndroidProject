@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\ic_launcher_foreground.png",
+        "source": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\app_icon_round.png",
+        "source": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\src\\main\\res\\mipmap-mdpi\\app_icon_round.png"
+    },
+    {
+        "merged": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\ic_launcher_background.png",
+        "source": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\src\\main\\res\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi-v4\\app_icon.png",
+        "source": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\src\\main\\res\\mipmap-mdpi\\app_icon.png"
+    }
+]

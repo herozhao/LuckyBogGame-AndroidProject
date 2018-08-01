@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\app_icon.png",
+        "source": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\src\\main\\res\\mipmap-xxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi-v4\\app_icon_round.png",
+        "source": "E:\\Android_Project\\Android_Project\\lockyboygame\\LockyBoyGame\\src\\main\\res\\mipmap-xxhdpi\\app_icon_round.png"
+    }
+]

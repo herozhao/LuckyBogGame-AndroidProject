@@ -1,0 +1,2 @@
+include ':app',':LockyBoyGame',':LockyBoyGame_xlua'
+
